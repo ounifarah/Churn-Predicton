@@ -14,6 +14,8 @@ Run the Streamlit app locally and enter a customer's details to receive:
 Customer details -> preprocessing -> XGBoost pipeline -> churn probability -> risk level
 ```
 
+> **Live demo:** [Open the Customer Churn Predictor](https://churn-predicton-g2ecmqrvm6gorvnm7lwoua.streamlit.app/)
+
 ## Power BI Dashboard
 
 The project also includes a Power BI dashboard for exploring customer churn patterns and prediction outputs.
