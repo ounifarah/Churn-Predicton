@@ -14,6 +14,14 @@ Run the Streamlit app locally and enter a customer's details to receive:
 Customer details -> preprocessing -> XGBoost pipeline -> churn probability -> risk level
 ```
 
+## Power BI Dashboard
+
+The project also includes a Power BI dashboard for exploring customer churn patterns and prediction outputs.
+
+![Power BI churn dashboard](docs/powerbi-dashboard.png)
+
+The dashboard explores churn by contract type, tenure, monthly charges, payment method, and predicted risk level.
+
 ## Project Highlights
 
 - Cleans and prepares the Telco Customer Churn dataset.
